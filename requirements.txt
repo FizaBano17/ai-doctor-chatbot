@@ -1,0 +1,22 @@
+# Core dependencies
+requests
+python-dotenv
+
+# Speech Recognition
+SpeechRecognition
+sounddevice
+soundfile
+
+# AI APIs (OpenRouter + Groq)
+openai
+groq
+httpx
+
+# Gradio UI
+gradio==4.44.0
+
+# Image handling
+Pillow==10.2.0
+
+#python version
+python 3.12
